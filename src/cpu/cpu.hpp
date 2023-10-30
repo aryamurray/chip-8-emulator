@@ -1,0 +1,4 @@
+struct cpu{
+    char PC;
+    
+}
